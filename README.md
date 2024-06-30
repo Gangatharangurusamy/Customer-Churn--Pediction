@@ -1,4 +1,3 @@
-
 # Telco Customer Churn Project
 
 This project is a machine learning project focusing on customer churn prediction. The project consists of 4 main steps: 
@@ -53,11 +52,11 @@ Telco Customer Churn Project/
 ### 
 1. Clone the project
 ```bash
-git clone https://github.com/rolmez/Customer-Churn-Project.git
+git clone https://github.com/Gangatharangurusamy/Customer-Churn--Pediction.git
 ```
 2. Go to the project directory
 ```bash
-cd Customer-Churn-Project
+cd Customer-Churn-Prediction
 ```
 3. Install dependencies
 ```bash
@@ -103,5 +102,3 @@ python predict.py
 ![FastAPI](photos/fast-api%202.png)
 ![FastAPI](photos/fast-api%203.png)
 ![FastAPI](photos/fast-api%204.png)
-### Docker
-![Docker Run](photos/docker%20run.png)
