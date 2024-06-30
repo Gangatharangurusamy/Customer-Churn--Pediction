@@ -7,7 +7,6 @@ This project is a machine learning project focusing on customer churn prediction
 - API (FastAPI)
 - Automation (Docker)
 
-(You can also take a look at the [Medium](https://medium.com/@ramazanolmeez/end-to-end-machine-learning-project-churn-prediction-e9c4d0322ac9) article that hosts all the processes of the project)
 
 ## Project Folder Structure
 ```bash
